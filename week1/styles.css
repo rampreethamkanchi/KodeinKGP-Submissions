@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(249, 232, 211);
+    text-align: center;
+}
+
+#button {
+    background-color: blue;
+    color: white;
+    box-shadow: red 1px;
+    padding: 16px;
+    margin: 16px;
+    /* border: 2px solid black; */
+    border-radius: 10px;
+    cursor: pointer;
+}
